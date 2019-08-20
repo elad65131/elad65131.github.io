@@ -1,0 +1,31 @@
+
+	
+.btn1:hover{
+      transform:scale(1.1);
+}
+.btn1{
+	transition: all 1.5s;
+	padding: 100px 25px;
+
+}
+.btn1{
+	margin-left: 480px;
+	margin-top: 90px;
+
+}
+
+
+
+body{
+	background-image: url(https://landingstock.com/wp-content/uploads/landingstock_images_30.jpg);
+    background-image: cover;
+}
+h1{
+	display: flex;
+	justify-content: center;
+	margin-top: 40px;
+	text-decoration: underline;
+	font-family: italy;
+	color:#6E4BA8;
+	cursor: pointer;
+}
